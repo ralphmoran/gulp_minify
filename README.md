@@ -1,2 +1,2 @@
 # gulp_minify
-Gulp practice #4 - Minify
+Gulp practice #4 - Minify (gulp-uglify)
