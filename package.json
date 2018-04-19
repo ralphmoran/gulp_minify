@@ -1,0 +1,23 @@
+{
+  "name": "gulp_minify",
+  "version": "1.0.0",
+  "description": "Gulp practice #4 - Minify",
+  "main": "main.js",
+  "devDependencies": {
+    "gulp-uglify": "^3.0.0",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphmoran/gulp_minify.git"
+  },
+  "author": "Ralph Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphmoran/gulp_minify/issues"
+  },
+  "homepage": "https://github.com/ralphmoran/gulp_minify#readme"
+}
